@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Feroz mir
 how have you been?
+=======
+This is me here
+>>>>>>> a6f7d5f191d0a2ca80b3a23d5f4b3a7b3c468f36
